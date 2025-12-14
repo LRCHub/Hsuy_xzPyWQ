@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "바이, 썸머",
+  "base_artist": "아이유(IU)",
+  "createdAt": "2025-12-14T16:01:44.883153Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Bye, Summer (바이, 썸머)",
+      "artist": "IU",
+      "has_synced": true,
+      "path": "select/01_Bye,_Summer_(바이,_썸머)_IU.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Bye, Summer",
+      "artist": "IU",
+      "has_synced": false,
+      "path": "select/pl_01_Bye,_Summer_IU.txt"
+    }
+  ]
+}
